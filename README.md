@@ -21,5 +21,3 @@ All contributions undergo a code review process.
 Licensing:
 Contributions are licensed.
 
-
-CODE_OF_CONDUCT.md
